@@ -1,3 +1,5 @@
+
+#Buidling package
 #developer's bible for creating packages is Writing R Extensions by the R Core Team(http://cran.r-project.org/doc/manuals/R-exts.pdf)
 #Friedrich Leishch also produced a nice tutorial on creating packages(http"//mng.bz/Ks84)
 
